@@ -1,0 +1,15 @@
+.certificate-image{
+    height: 80vh !important;
+    object-fit: contain;
+    max-width: 100%;
+}
+.swiper-slide{
+    text-align: center;
+}
+.why-us .content .why-megallp{
+    font-size: 50px;
+}
+.why-us .accordion-list span{
+    font-size: 25px;
+    color: rgb(25, 100, 80);
+}
