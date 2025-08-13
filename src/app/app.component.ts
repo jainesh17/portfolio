@@ -11,7 +11,7 @@ export class AppComponent {
   title = 'megallp';
   public navbarcall = false;
 
-  public NavMenuCssClass: any = null || 'collapse';
+  public NavMenuCssClass: any = 'collapse';
   private innerWidth: any;
   public tsb: any;
 
